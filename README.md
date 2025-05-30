@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Japanese**
 
-- 👨‍💻 All of my projects are available at [my repository](my repository)
+- 👨‍💻 All of my projects are available at **my repository**
 
 - 💬 Ask me about **anything**
 
